@@ -1,2 +1,2 @@
 # karman
-Python/AIML based chatbot.
+A chatbot based on AIML and Python.
